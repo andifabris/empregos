@@ -7,3 +7,4 @@ Desenvolvido pela Evolution
 Os Empregos:
 ----> Motorista, Plantação, Lixeiro, Leiteiro, Minerador, Taxista, Entregador de Encomendas e Camionhoneiro 
 
+Todos os empregos contém seu config de ajuste, tanto de animações quanto valor de recebimento.
